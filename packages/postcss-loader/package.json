@@ -14,6 +14,6 @@
     "@rspack/binding": "workspace:*",
     "postcss-modules": "^5.0.0",
     "postcss-pxtorem": "^6.0.0",
-    "postcss": "^8.4.16"
+    "postcss": "^8.4.31"
   }
 }
